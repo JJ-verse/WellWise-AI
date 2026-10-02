@@ -1,0 +1,6 @@
+{
+  "name": "eRTMAC-NWIS — Nearby Wells Intelligence System",
+  "description": "AI-powered decision-support dashboard for Oil India Limited drilling engineers, correlating real-time drilling with offset well historical events and proactive risk alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
