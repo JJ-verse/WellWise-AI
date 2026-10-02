@@ -311,7 +311,7 @@ export default function App() {
         <main className="flex-1 overflow-y-auto p-4 md:p-6 lg:p-8 bg-[#0b0f17]">
           {/* Breadcrumb strip */}
           <div className="flex items-center gap-2 text-xs text-slate-400 font-mono mb-4 pb-2 border-b border-slate-800/80">
-            <span>eRTMAC-NWIS</span>
+            <span>WellWise Ai</span>
             <span>/</span>
             <span className="text-slate-300">Nahorkatiya Asset</span>
             <span>/</span>

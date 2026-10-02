@@ -73,7 +73,7 @@ export const Header: React.FC<HeaderProps> = ({
               </div>
               <div>
                 <div className="flex items-center gap-2">
-                  <span className="font-extrabold text-sm tracking-wide text-white">eRTMAC-NWIS</span>
+                  <span className="font-extrabold text-sm tracking-wide text-white">WellWise Ai</span>
                   <span className="text-[11px] text-amber-400 font-mono font-semibold px-1.5 py-0.5 rounded bg-amber-500/10 border border-amber-500/20">
                     Nearby Wells Intelligence
                   </span>
